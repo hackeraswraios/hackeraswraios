@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hackeraswraios
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, C++, HTML
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me hackeraswraios@tuta.io
 
